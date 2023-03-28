@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 ,24/7 | ROSA DE GUADALUPE
+#EXTINF:-1 ,24/7 | ROSA DE GUADALUPE group-title="Series"
 http://soberon.us:25461/m0nk/n3w/3544
 #EXTINF:-1 ,24/7 | The Big Bang Theory
 http://soberon.us:25461/m0nk/n3w/2931
@@ -98,7 +98,7 @@ http://soberon.us:25461/m0nk/n3w/3772
 http://soberon.us:25461/m0nk/n3w/3775
 #EXTINF:-1 ,ARGENTINA | TLX group-title="Argentina"
 http://soberon.us:25461/m0nk/n3w/3008
-#EXTINF:-1 ,BALLY SPORTS DETROIT 
+#EXTINF:-1 ,BALLY SPORTS DETROIT group-title="Bally"
 http://soberon.us:25461/m0nk/n3w/3567
 #EXTINF:-1 ,BALLY SPORTS FLORIDA 
 http://soberon.us:25461/m0nk/n3w/3568
@@ -746,9 +746,9 @@ http://soberon.us:25461/m0nk/n3w/59
 http://soberon.us:25461/m0nk/n3w/60
 #EXTINF:-1 ,Latino | Canal De Las Estrellas
 http://soberon.us:25461/m0nk/n3w/61
-#EXTINF:-1 ,Latino | Cartoon Network
+#EXTINF:-1 ,Latino | Cartoon Network group-title="Latino Niños"
 http://soberon.us:25461/m0nk/n3w/63
-#EXTINF:-1 ,LATINO | CGTN ESPANOL
+#EXTINF:-1 ,LATINO | CGTN ESPANOL group-title="Latino Series y Peliculas"
 http://soberon.us:25461/m0nk/n3w/961
 #EXTINF:-1 ,Latino | CineLatino
 http://soberon.us:25461/m0nk/n3w/65
@@ -1050,7 +1050,7 @@ http://soberon.us:25461/m0nk/n3w/3580
 http://soberon.us:25461/m0nk/n3w/3581
 #EXTINF:-1 ,MOVISTAR SERIEMANIA
 http://soberon.us:25461/m0nk/n3w/3582
-#EXTINF:-1  tvg-logo="https://i2.paste.pics/aa99b1f0883fe3d009f973f0a0e2848f.png",MUSIC | Buenisima Radio TV | CO group-title="Varios"
+#EXTINF:-1  tvg-logo="https://i2.paste.pics/aa99b1f0883fe3d009f973f0a0e2848f.png",MUSIC | Buenisima Radio TV | CO group-title="Musica"
 http://soberon.us:25461/m0nk/n3w/3681
 #EXTINF:-1  tvg-logo="https://i2.paste.pics/9beaf1949244b5eb5e5ed3af28304f52.png",MUSIC | Cadena Elite | ES
 http://soberon.us:25461/m0nk/n3w/3685
